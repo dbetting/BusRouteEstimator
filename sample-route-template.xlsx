@@ -1,0 +1,10 @@
+RouteID,StopName,Latitude,Longitude,StopTime,StopNumber
+R001,Main Terminal,40.7128,-74.0060,08:00,1
+R001,City Center,40.7142,-74.0064,08:15,2
+R001,University,40.7155,-74.0068,08:30,3
+R001,Shopping Mall,40.7168,-74.0072,08:45,4
+R001,Residential Area,40.7181,-74.0076,09:00,5
+R002,North Terminal,40.7194,-74.0080,08:00,1
+R002,Business District,40.7207,-74.0084,08:20,2
+R002,Industrial Park,40.7220,-74.0088,08:40,3
+R002,South Terminal,40.7233,-74.0092,09:00,4 
